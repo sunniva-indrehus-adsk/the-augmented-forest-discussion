@@ -1,0 +1,9 @@
+# Marp render artefacts
+talk/slides.html
+talk/slides.pdf
+talk/.preview
+.DS_Store
+
+# Build output (the workflow creates this in CI)
+_site/
+talk/index.html
